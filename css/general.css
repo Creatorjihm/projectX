@@ -1,0 +1,29 @@
+/* .btn:link,
+.btn:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: #e7e9ea;
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 1.5rem 9.5rem;
+  border-radius: 5rem;
+  background-color: #1d9bf0;
+  margin-top: 1rem;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #1483cc;
+  transition: all 0.2s;
+}
+
+.btn-mod:link,
+.btn-mod:visited {
+  font-size: 1.5rem;
+  padding: 1rem 1.5rem;
+  margin-top: 0;
+}
+
+.btn-tweak {
+  width: 95%;
+} */
